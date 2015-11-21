@@ -263,7 +263,7 @@ public class LCScombined {
         i++;
       } else j++;
     }
-    return sb3.toString();
+    return sb.toString();
   }
 
   //returns length of longest common subsequence for two strings x and y
